@@ -78,7 +78,7 @@ section#foto1 {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment:fixed;
-    background-position: center center;
+    background-position: right top;
 }
 section#foto2 {
     background-image: url('imagens/background002.jpg');
